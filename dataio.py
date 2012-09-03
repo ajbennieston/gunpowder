@@ -11,7 +11,7 @@ def _determine_conversion(flag):
 def _get_stripped_lines(filename):
     with open(filename, 'r') as f:
         lines = [l.strip() for l in f.readlines()]
-    return lines
+        return lines
 
 def _split(lines, delimiter):
     return [l.split(delimiter) for l in lines]
