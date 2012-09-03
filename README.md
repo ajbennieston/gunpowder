@@ -9,7 +9,7 @@ data from files and plot it in a variety of ways.
 Examples include reading CSV files (or similar)
 and converting the contents into lists of (lists of)
 numbers, and using the ROOT data analysis framework
-to produce histograms or graphs.
+(http://root.cern.ch/) to produce histograms or graphs.
 
 Support for gnuplot may be added later.
 
