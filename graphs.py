@@ -3,8 +3,8 @@ import operator
 
 from ROOT import TGraph, TGraphErrors
 
-from latte.utility.dynamic_binning import Binner
-from latte.utility.statistics import mean, standard_deviation
+from dynamic_binning import Binner
+from statistics import mean, standard_deviation
 
 __all__ = ['graph', 'graph_errors', 'binned_means_graph_errors']
 
