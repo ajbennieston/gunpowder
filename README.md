@@ -16,8 +16,13 @@ Support for gnuplot may be added later.
 `gunpowder' is released under the BSD license (see
 the LICENSE file for details).
 
-You can download `gunpowder' to your current working
-directory using the command below.
+You can check out the repository using
+
+```sh
+git checkout https://github.com/ajbennieston/gunpowder
+```
+Or you can download (all or part of) `gunpowder' to your current working
+directory using variants of the command below.
 
 ```sh
 for file in dataio.py dynamic_binning.py graphs.py histograms.py statistics.py LICENSE README.md ; do
