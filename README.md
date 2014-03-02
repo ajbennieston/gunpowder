@@ -16,10 +16,10 @@ Support for gnuplot may be added later.
 `gunpowder' is released under the BSD license (see
 the LICENSE file for details).
 
-You can check out the repository using
+You can clone the repository using
 
 ```sh
-git checkout https://github.com/ajbennieston/gunpowder
+git clone https://github.com/ajbennieston/gunpowder
 ```
 Or you can download (all or part of) `gunpowder' to your current working
 directory using variants of the command below.
