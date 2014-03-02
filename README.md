@@ -25,7 +25,8 @@ Or you can download (all or part of) `gunpowder' to your current working
 directory using variants of the command below.
 
 ```sh
-for file in dataio.py dynamic_binning.py graphs.py histograms.py statistics.py LICENSE README.md ; do
+for file in dataio.py dynamic_binning.py graphs.py hcl2rgb.py \
+            histograms.py statistics.py LICENSE README.md ; do
     curl -O https://raw.github.com/ajbennieston/gunpowder/master/$file
 done
 ```
